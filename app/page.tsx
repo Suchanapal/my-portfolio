@@ -5,6 +5,7 @@ import Parallax from '@/components/sub/parallax/Parallax'
 import '@/app/app.scss'
 import Contact from '@/components/main/contact/Contact'
 import Portfolio from '@/components/main/portfolio/Portfolio'
+import Projects from '@/components/main/Projects'
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
         <section><Hero/></section>
         <Skills/>
         <section id='Services'><Parallax/></section>
-        <Portfolio/>
+       <section  id='project'><Projects/></section> 
         <section><Contact/></section>
       
         </div>

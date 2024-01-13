@@ -17,6 +17,11 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+
+.canvas{
+  pointer-events: none 
+}
 .cursive {
   font-family: "Cedarville Cursive", cursive;
 }
@@ -98,7 +103,7 @@ html {
   /* border-radius: 10px; */
 }
 
-.projects{
+#project{
   height: max-content !important;
   /* margin-right: 15rem !important;
   margin-left: 4rem !important;
