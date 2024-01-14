@@ -4,7 +4,7 @@ import Skills from '@/components/main/Skills'
 import Parallax from '@/components/sub/parallax/Parallax'
 import '@/app/app.scss'
 import Contact from '@/components/main/contact/Contact'
-import Portfolio from '@/components/main/portfolio/Portfolio'
+
 import Projects from '@/components/main/Projects'
 
 export default function Home() {
