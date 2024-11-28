@@ -18,7 +18,7 @@ const Projects = () => {
           link="https://spicy-reception.vercel.app/"
         />
         <ProjectCard
-          src="/Project BB.png"
+          src="/as.PNG"
           title="E-commerce Website"
           description="BillionBooks: A user-friendly e-commerce platform for seamless book shopping, offering secure authentication, smooth transactions, and advanced search. An enjoyable space for book enthusiasts to explore and connect with their favorite reads."
          link="https://billionbooks.co.in/" 
