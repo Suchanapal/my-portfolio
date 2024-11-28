@@ -30,18 +30,16 @@ const Projects = () => {
           link="https://project-quoto-pia.vercel.app/"
         />
         <ProjectCard
-          src="/DB.png"
-          title="HR Dashboard"
-          description=" An interactive Excel HR Employee Attrition Dashboard  visualizing the analysis and insights from the IBM employee dataset. Offers an user-friendly interface for informed workforce management decisions.
-
-          ."
-         link="https://drive.google.com/drive/folders/1ZcYooU2pCory6uQk3yBJny3nSonmkeoP?usp=sharing" 
+          src="/sw.PNG"
+          title="SaaS platform"
+          description="Programming Hero: A modern platform that empowers aspiring developers through personalized learning, featuring a futuristic and intuitive user interface for an engaging experience."
+         link="https://www.programming-hero.com/" 
         />
         <ProjectCard
-          src="/TW.png"
-          title="Text Utilizer"
-          description="TextWizard: A web project focusing on text efficiency, offering features like contact/email extraction, space removal, text reversal, and accurate word counting. Simplifying text processing experience with ease."
-         link="https://textwizard-gold.vercel.app/" 
+          src="/Ian.PNG"
+          title="Testing Platform"
+          description="Oyetest: A software testing platform with an intuitive interface, enabling seamless test automation, result tracking, and integrations for efficient quality assurance and faster software releases."
+         link="https://www.oyetest.com/" 
         />
         <ProjectCard
           src="/AR.png"
