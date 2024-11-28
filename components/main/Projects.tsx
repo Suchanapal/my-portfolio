@@ -36,7 +36,7 @@ const Projects = () => {
          link="https://www.programming-hero.com/" 
         />
         <ProjectCard
-          src="/Ian.PNG"
+          src="/lan.PNG"
           title="Testing Platform"
           description="Oyetest: A software testing platform with an intuitive interface, enabling seamless test automation, result tracking, and integrations for efficient quality assurance and faster software releases."
          link="https://www.oyetest.com/" 
