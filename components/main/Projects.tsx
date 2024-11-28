@@ -21,7 +21,7 @@ const Projects = () => {
           src="/Project BB.png"
           title="E-commerce Website"
           description="BillionBooks: A user-friendly e-commerce platform for seamless book shopping, offering secure authentication, smooth transactions, and advanced search. An enjoyable space for book enthusiasts to explore and connect with their favorite reads."
-         link="https://thebillionbooks.store/" 
+         link="https://billionbooks.co.in/" 
         />
         <ProjectCard
           src="/Project QP.png"
