@@ -24,7 +24,7 @@ const Projects = () => {
          link="https://billionbooks.co.in/" 
         />
         <ProjectCard
-          src="/ko.png"
+          src="/ko.jpg"
           title="Educational Platform App"
           description="EduMate: A mobile app offering personalized learning with an intuitive interface, easy course access, and progress tracking for a seamless learning experience."
           link="https://www.figma.com/proto/mV5FKi2QdM1IOr9dYKx1eg/Figma-app-mockup-(Community)?node-id=2-2&node-type=canvas&t=qaC4PhJtfKbGhwVQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
