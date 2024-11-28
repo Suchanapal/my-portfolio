@@ -18,16 +18,16 @@ const Projects = () => {
           link="https://spicy-reception.vercel.app/"
         />
         <ProjectCard
-          src="/as.PNG"
+          src="/ad.PNG"
           title="E-commerce Website"
           description="BillionBooks: A user-friendly e-commerce platform for seamless book shopping, offering secure authentication, smooth transactions, and advanced search. An enjoyable space for book enthusiasts to explore and connect with their favorite reads."
          link="https://billionbooks.co.in/" 
         />
         <ProjectCard
-          src="/Project QP.png"
-          title="Quote Sharing Platform"
-          description="QuotoPia: Quote enthusiast's web hub with a modern UI for seamless sign-ins, sharing, exploring, and building personal collections. Robust authentication, smooth sharing, powerful search, and interactive features foster a positive and engaging community."
-          link="https://project-quoto-pia.vercel.app/"
+          src="/ko.png"
+          title="Educational Platform App"
+          description="EduMate: A mobile app offering personalized learning with an intuitive interface, easy course access, and progress tracking for a seamless learning experience."
+          link="https://www.figma.com/proto/mV5FKi2QdM1IOr9dYKx1eg/Figma-app-mockup-(Community)?node-id=2-2&node-type=canvas&t=qaC4PhJtfKbGhwVQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1"
         />
         <ProjectCard
           src="/sw.PNG"
